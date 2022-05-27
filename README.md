@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Mohammad Kutub Uddin
+#### Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**kutub/kutub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 4 years Diploma in Computer Technology with 4 years of working experience in building, developing, and managing websites, applications, and programs in a well-known organization. I expert in
+the development of web software is primarily in Vuejs And Laravel and but I am also comfortable using Nodejs, Python, PHP, and Java, among others. I have a strong understanding of RESTful Services and API base Website development. I also value to use of mobile programming to design a well-rounded platform that caters to the unique needs of each customer to serve.
 
-Here are some ideas to get you started:
+Skills: HTML, CSS, Javascript, PHP, Laravel, Vuejs, Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
